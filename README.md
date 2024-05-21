@@ -1,2 +1,2 @@
 # resume
-My resume website host the website
+My resume website
